@@ -46,28 +46,17 @@ const malithYasintha = {
 
 ### Data Science & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Data Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 ### Payment & Cloud
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 
 ## 📊 GitHub Stats
 
@@ -81,156 +70,29 @@ const malithYasintha = {
 
 </div>
 
-## 🏆 Featured Projects
 
-### 🏥 [Veterinary Clinic Management System](https://github.com/malith21/vet-clinic-system)
-A comprehensive MERN stack application for managing veterinary clinic operations with integrated data analytics and payment processing.
 
-**Tech Stack:** React, Node.js, Express, MongoDB, Stripe, jsPDF  
-**Features:** 
-- 📅 Appointment scheduling with automated reminders
-- 🏥 Complete medical records management system
-- 💉 Vaccination tracking and scheduling
-- 🔬 Laboratory results management
-- 💳 Secure payment integration with Stripe
-- 📊 Data analytics and reporting with PDF generation
-- 📦 Inventory management with automated reordering
 
-**Data Science Elements:** Patient visit analytics, treatment effectiveness tracking, inventory forecasting
-
----
-
-### 🧪 [Automated Testing Framework](https://github.com/malith21/automation-testing)
-Professional end-to-end testing framework built with Playwright and TypeScript using Page Object Model design pattern.
-
-**Tech Stack:** Playwright, TypeScript, Node.js  
-**Features:** 
-- Automated UI testing with visual regression
-- Page Object Model for maintainability
-- Detailed HTML test reports
-- Cross-browser testing support
-- CI/CD integration ready
-
----
-
-### 📊 [Data Analysis Projects](https://github.com/malith21/data-analysis)
-Collection of data science projects demonstrating various ML algorithms and data visualization techniques.
-
-**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter  
-**Projects Include:**
-- Customer segmentation using clustering algorithms
-- Sales forecasting with time series analysis
-- Sentiment analysis on social media data
-- Predictive maintenance models
-
----
-
-### 🌐 [Personal Portfolio](https://github.com/malith21/portfolio)
-Modern, responsive portfolio website showcasing my projects, skills, and data science journey.
-
-**Tech Stack:** React, Tailwind CSS, Framer Motion  
-**Features:** Interactive project showcase, Data visualization demos, Dark/Light mode, Responsive design
-
-## 💼 Experience & Education
-
-### 🎓 Education
-**BSc (Hons) in Information Technology - Data Science Specialization**  
-Sri Lanka Institute of Information Technology (SLIIT)  
-*Expected Graduation: 2027*
-
-**Relevant Coursework:**
-- Machine Learning & AI
-- Data Mining & Analytics
-- Statistical Analysis
-- Database Management Systems
-- Web Application Development
-- Software Engineering
-
-### 💻 Skills & Expertise
-
-#### Full Stack Development
-- ⚛️ **Frontend:** React.js, Modern JavaScript/TypeScript, Responsive Design
-- 🔧 **Backend:** Node.js, Express.js, RESTful API Development
-- 🗄️ **Database:** MongoDB, MySQL, Database Design & Optimization
-- 🔐 **Authentication:** JWT, OAuth, Session Management
-- 💳 **Payment Integration:** Stripe API Implementation
-
-#### Data Science & Analytics
-- 📊 **Data Analysis:** Pandas, NumPy, Statistical Analysis
-- 🤖 **Machine Learning:** Supervised & Unsupervised Learning, Model Evaluation
-- 📈 **Data Visualization:** Matplotlib, Seaborn, Plotly, Power BI
-- 🧹 **Data Preprocessing:** Cleaning, Transformation, Feature Engineering
-- 📉 **Statistical Methods:** Hypothesis Testing, Regression Analysis
-
-#### Tools & Methodologies
-- 🔄 **Version Control:** Git, GitHub, Collaborative Development
-- 🧪 **Testing:** Unit Testing, Integration Testing, E2E Testing with Playwright
-- 📦 **DevOps:** Docker, CI/CD Pipelines, Cloud Deployment
-- 📝 **Documentation:** Technical Writing, API Documentation
-
-## 🎯 Current Goals & Learning Path
-
-### 🔭 Currently Working On
-- Building data-driven features for the Veterinary Clinic Management System
-- Implementing predictive analytics for inventory management
-- Developing machine learning models for patient outcome prediction
-- Creating interactive data visualization dashboards
-
-### 🌱 Currently Learning
-- **Deep Learning:** Neural Networks with TensorFlow and Keras
-- **Advanced TypeScript:** Type-safe full-stack development
-- **Cloud Computing:** AWS services for scalable applications
-- **Big Data Technologies:** Spark and Hadoop fundamentals
-- **MLOps:** ML model deployment and monitoring
-
-### 👯 Looking to Collaborate On
-- Open-source MERN stack projects with data analytics
-- Machine Learning projects with real-world applications
-- Data visualization and dashboard projects
-- Healthcare technology solutions
-
-### 💬 Ask Me About
-- Full-stack development with MERN
-- Data science and machine learning basics
-- Building RESTful APIs
-- Database design and optimization
-- Test automation with Playwright
-- Integrating ML models with web applications
 
 ### 📫 How to Reach Me
-- 📧 Email: malithyasintha@example.com
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/malith-yasintha)
+- 📧 Email: malithyasintha21@gmail.com
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/malith-yasintha-3936b5358/)
 - 🐱 GitHub: [@malith21](https://github.com/malith21)
 
-## 📈 Activity Graph
 
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=malith21&theme=tokyo-night&hide_border=true)
-
-</div>
 
 ## 🌐 Connect with Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/malith-yasintha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malith-yasintha-3936b5358/https://www.linkedin.com/in/malith-yasintha-3936b5358/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malith21)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malithyasintha@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://malith21.github.io)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/malithyasintha)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malithyasintha21@gmail.com)
+
 
 </div>
 
-## 💡 Data Science Quote
 
-<div align="center">
-  
-  ### 📊 "Data is the new oil. It's valuable, but if unrefined it cannot really be used."
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
 
 ## 📌 Pinned Repositories
 
@@ -241,42 +103,9 @@ Sri Lanka Institute of Information Technology (SLIIT)
 
 </div>
 
-## 🏅 Achievements & Certifications
 
-- 🎓 **Dean's List** - Academic Excellence at SLIIT
-- 📊 **Data Science Specialization** - SLIIT IT Faculty
-- 💻 **Full Stack Development** - MERN Stack Expertise
-- 🧪 **Test Automation** - Playwright Certified Developer
 
-## 📚 Latest Blog Posts & Articles
 
-<!-- BLOG-POST-LIST:START -->
-- 📊 Building a Real-time Analytics Dashboard with MERN Stack
-- 🤖 Integrating Machine Learning Models with Node.js
-- 🏥 Healthcare Data Management: Best Practices
-- 📈 Data Visualization Techniques for Web Applications
-<!-- BLOG-POST-LIST:END -->
-
-## 🎨 Interests & Hobbies
-
-Beyond coding and data analysis, I enjoy:
-- 📖 Reading tech blogs and research papers
-- 🎮 Exploring new frameworks and technologies
-- 🏃 Contributing to open-source projects
-- 💡 Participating in hackathons and coding competitions
-- 🌱 Mentoring junior developers
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   12 hrs 30 mins  ████████████░░░░░░░░░   45.2%
-Python       8 hrs 15 mins   ███████░░░░░░░░░░░░░░   29.8%
-TypeScript   4 hrs 20 mins   ████░░░░░░░░░░░░░░░░░   15.7%
-CSS          1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░░    6.3%
-JSON         52 mins         █░░░░░░░░░░░░░░░░░░░░    3.0%
-```
-<!--END_SECTION:waka-->
 
 ---
 
